@@ -1,0 +1,9 @@
+Qty,Designator,Value,Description,Package,DigiKey Part Number,URL
+1,U1,Nano Every,Microcontroller,,,
+2,"U2, U3",74HC595,Shift Register,,,
+2,"DS1, DS2",LTD-5621A,2-Digit 7-Seg,,,
+7,SW1-SW7,Tactile,Push Button,,,
+1,S1,JS203011AQN,3-Pos Slide,,,
+16,R1-R16,220 Ohm,Segment Resistor,,,
+7,R17-R23,10k Ohm,Pull-down Resistor,,,
+2,"C1, C2",0.1uF,Decoupling Cap,,,

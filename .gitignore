@@ -1,0 +1,34 @@
+# Ignore Arduino IDE compiled binaries
+*.elf
+*.hex
+*.o
+
+# Ignore local build folders
+build/
+bin/
+
+# PlatformIO
+.pio/
+.piolibdeps/
+.pioenvs/
+
+# KiCad Backup and Temporary Files
+*.bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-backups/
+_autosave-*
+*.tmp
+fp-info-cache
+
+# IDE - VS Code
+.vscode/
+!.vscode/extensions.json
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Secrets and Logs
+.env
+*.log
