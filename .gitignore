@@ -12,7 +12,7 @@ bin/
 .piolibdeps/
 .pioenvs/
 
-# KiCad Backup and Temporary Files
+# KiCad Files to Ignore
 *.bak
 *.kicad_pcb-bak
 *.kicad_sch-bak
@@ -20,6 +20,11 @@ bin/
 _autosave-*
 *.tmp
 fp-info-cache
+python_plugins/
+
+# Manufacturing outputs (Optional: ignore if you want to regenerate them)
+# *.gbr (Gerbers)
+# *.drl (Drill files)
 
 # IDE - VS Code
 .vscode/
