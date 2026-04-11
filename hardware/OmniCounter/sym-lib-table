@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Capacitor")(type "KiCad")(uri "/home/darrenlee/Documents/OmniCounter/hardware/libs/symbols/Capacitor.kicad_sym")(options "")(descr ""))
+  (lib (name "SN74HC595N")(type "KiCad")(uri "/home/darrenlee/Documents/OmniCounter/hardware/libs/symbols/SN74HC595N.kicad_sym")(options "")(descr ""))
+)
