@@ -21,6 +21,11 @@ _autosave-*
 *.tmp
 fp-info-cache
 python_plugins/
+*.lck
+#auto_saved_files#
+
+# KiCad Local Preferences
+*.kicad_prl
 
 # Manufacturing outputs (Optional: ignore if you want to regenerate them)
 # *.gbr (Gerbers)
