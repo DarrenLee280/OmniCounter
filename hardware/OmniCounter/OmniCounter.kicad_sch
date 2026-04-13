@@ -3,7 +3,7 @@
 	(generator "eeschema")
 	(generator_version "9.0")
 	(uuid "454626db-c47f-4e30-9a01-206f8a8b9f61")
-	(paper "A4")
+	(paper "USLetter")
 	(title_block
 		(title "OmniCounter Schematics")
 		(rev "1")
