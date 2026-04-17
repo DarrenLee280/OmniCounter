@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "capacitor")(type "KiCad")(uri "/home/darrenlee/Documents/OmniCounter/hardware/libs/footprints/capacitor.pretty")(options "")(descr ""))
   (lib (name "SN74HC595N")(type "KiCad")(uri "/home/darrenlee/Documents/OmniCounter/hardware/libs/footprints/SN74HC595N.pretty")(options "")(descr ""))
+  (lib (name "TactileButton")(type "KiCad")(uri "/home/darrenlee/Documents/OmniCounter/hardware/libs/footprints/TactileButton.pretty")(options "")(descr ""))
 )
